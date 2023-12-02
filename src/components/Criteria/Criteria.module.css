@@ -1,0 +1,14 @@
+.criterion {
+    background-color: rgba(128, 128, 128, 0.17);
+    padding: 3px 15px;
+    border-radius: 100px;
+    margin-right: 5px;
+}
+
+.criteria {
+    margin: 5px 0;
+}
+
+.deleteCriterion {
+    cursor: pointer;
+}

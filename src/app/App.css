@@ -1,0 +1,36 @@
+.App {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #d0d0d0;
+}
+
+input {
+  width: 150px;
+  margin: 0 5px;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.span {
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+table {
+  background-color: gray;
+  color: white;
+  font-weight: 700;
+  border: 1px solid white;
+  border-radius: 12px;
+}
+
+td {
+  padding: 10px;
+  border-radius: 12px;
+  text-align: center;
+}
+
